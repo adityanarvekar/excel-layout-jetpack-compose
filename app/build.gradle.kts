@@ -4,7 +4,7 @@ plugins {
     alias(libs.plugins.jetbrains.kotlin.android)
 }
 group = "com.github.adityanarvekar"
-version = "1.0.0"
+version = "1.0.1"
 android {
     namespace = "com.adityanarvekar.stickymatrix"
     compileSdk = 34
@@ -57,7 +57,7 @@ afterEvaluate {
                 from(components["release"])
                 groupId = "com.github.adityanarvekar"
                 artifactId = "sticky-matrix"
-                version = "1.0.0"
+                version = "1.0.1"
             }
         }
     }
