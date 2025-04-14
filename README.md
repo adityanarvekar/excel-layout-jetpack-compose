@@ -136,9 +136,6 @@ The `StickyMatrix` composable provides several parameters to customize its appea
 
 ---
 
-## 📸 Screenshots & Demo
-
 ### GIFs
-
-| ![Screen-recording-1](https://github.com/user-attachments/assets/2be9b171-34af-43a2-85cd-142dea7bfa60) | ![Screen-recording-2](https://github.com/user-attachments/assets/7e16408a-6869-4843-ad91-333010c0b5ce) |
+| ![Screen-recording-1](https://github.com/user-attachments/assets/61b70941-6411-4581-beef-3dcf3e969ed1) | ![Screen-recording-2](https://github.com/user-attachments/assets/f1cecf8b-bce5-4328-b477-3f248f38510c) |
 |--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
